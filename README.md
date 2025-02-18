@@ -48,5 +48,4 @@
 ![Zayyar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamie1606&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamie1606&layout=compact&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamie1606&theme=radical&margin-w=15&margin-h=15&rank=-C,??&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamie1606)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jamie1606)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jamie1606&theme=radical&card_width=500&line_height=20&hide_border=true&hide_title=true)](https://git.io/streak-stats)
