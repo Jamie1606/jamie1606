@@ -4,7 +4,7 @@
 
 ### I'm Zay Yar Tun
 
-<h4>Full Stack Developer | Software Engineer</h4>
+<h4>Full Stack Web Developer | Software Engineer</h4>
 </div>
 
 ## 💫 About Me:
@@ -14,7 +14,7 @@
 - 💼 I'm open to **full time** jobs in **Singapore**
 - 🏫 I'm going to graduate in May 2025, studying Information Technology at Singapore Polytechnic
 - 🌐 This is my portfolio website: **[Portfolio Website](https://www.zayyartun.com)**
-- 📝 This is my resume: **[Resume](./resume.pdf)**
+- 📝 This is my resume: **[Resume](https://drive.google.com/file/d/1mXGNMQgyisUgdpKZEMZyc9i0Ou0k11zm/view)**
 
 ## 👥 Socials:
 
